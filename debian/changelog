@@ -1,0 +1,11 @@
+u-boot-odroid (1.0-1ubuntu1) precise; urgency=low
+
+  * Adding debian package descriptions at first
+
+ -- Dongjin Kim <tobetter@gmail.com>  Tue, 09 Apr 2013 23:13:33 +0900
+
+u-boot-odroid (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Dongjin Kim <tobetter@gmail.com>  Tue, 09 Apr 2013 22:16:28 +0900
