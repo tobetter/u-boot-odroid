@@ -1,3 +1,9 @@
+u-boot-odroid (1.0-1ubuntu2) precise; urgency=low
+
+  * Adding README.md for Github
+
+ -- Dongjin Kim <tobetter@gmail.com>  Sat, 13 Apr 2013 01:59:35 +0900
+
 u-boot-odroid (1.0-1ubuntu1) precise; urgency=low
 
   * Adding debian package descriptions at first
