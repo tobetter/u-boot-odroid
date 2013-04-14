@@ -1,4 +1,4 @@
 BL1.bin		/boot
 BL2.bin		/boot
 TZSW.bin	/boot
-u-boot.bin	/usr/lib/odroidx
+u-boot.bin	/boot
