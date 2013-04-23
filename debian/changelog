@@ -1,3 +1,13 @@
+u-boot-odroid (1.0-1ubuntu6) precise; urgency=low
+
+  * Changes since last version
+
+    de0d7fe smdk4412: Select the source clock of LCD0
+    a877439 smdk4412: Select FIMD bypass for LCD
+    f831861 smdk4412: fix invalid BOOTMAPSZ
+
+ -- Dongjin Kim <tobetter@gmail.com>  Wed, 05 Jun 2013 23:38:08 +0900
+
 u-boot-odroid (1.0-1ubuntu5) precise; urgency=low
 
   * FDT (Flattened Device Tree) support is enabled
