@@ -1,3 +1,21 @@
+u-boot-odroid (1.0-1ubuntu5) precise; urgency=low
+
+  * FDT (Flattened Device Tree) support is enabled
+
+ -- Dongjin Kim <tobetter@gmail.com>  Wed, 24 Apr 2013 02:44:06 +0900
+
+u-boot-odroid (1.0-1ubuntu4) precise; urgency=low
+
+  * Booting with  uImage is enabled
+
+ -- Dongjin Kim <tobetter@gmail.com>  Wed, 24 Apr 2013 02:43:48 +0900
+
+u-boot-odroid (1.0-1ubuntu3) precise; urgency=low
+
+  * Replacing bootload binaries with Hardkernel's github
+
+ -- Dongjin Kim <tobetter@gmail.com>  Wed, 24 Apr 2013 02:42:57 +0900
+
 u-boot-odroid (1.0-1ubuntu2) precise; urgency=low
 
   * Adding README.md for Github
