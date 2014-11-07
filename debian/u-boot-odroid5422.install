@@ -1,0 +1,4 @@
+bl1.bin.hardkernel      /boot
+bl2.bin.hardkernel      /boot
+tzsw.bin.hardkernel     /boot
+u-boot.bin              /boot
