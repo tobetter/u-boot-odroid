@@ -1,0 +1,3 @@
+bl1.bin.hardkernel      /boot
+u-boot.bin              /boot
+sd_fusing.sh            /boot

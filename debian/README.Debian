@@ -1,0 +1,8 @@
+u-boot-odroidc1 for Debian
+--------------------------
+
+U-boot package for Hardkernel's ODROID-C1.
+  * Specification: http://www.hardkernel.com/main/products/prdt_info.php?g_code=G141578608433&tab_idx=2
+  * Wiki: http://odroid.com/dokuwiki/doku.php?id=en:odroid-c1
+
+ -- Dongjin Kim <tobetter@gmail.com>  Sat, 10 Jan 2015 17:52:11 +0900

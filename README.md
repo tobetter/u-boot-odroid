@@ -1,10 +1,11 @@
-u-boot-odroid
-=============
+u-boot-odroidc1
+===============
 
-This package contains the binaries of u-boot in order to boot ODROID hardware designed with Samsung's SoC Exynos4. It must boot with the feature TrustZone is enabled, and this is also required to sign the binaries with specific security key.  Since these process is secured, u-boot is not able to modified or distributed by anyone uncertified. Prebuilt binaries are only able to be distributed.
+This package contains the binaries of u-boot in order to boot ODROID-C1 board designed
+with AMLogic's SoC S805.
 
-There are four files in the package, will be installed into /boot directory and burned into your boot device such as SDCARD or eMMC.
-    * BL1.bin
-    * BL2.bin
-    * TZSW.bin
+There are three files in the package, will be installed into /boot directory and burned
+into your booting device such as eMMC or MicroSD
+    * bl1.bin.hardkernel
     * u-boot.bin
+    * sd_fusing.sh
