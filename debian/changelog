@@ -1,3 +1,9 @@
+u-boot-odroidc1 (1.0-1ubuntu2) precise; urgency=low
+
+  * Fix building failure due to missing README
+
+ -- Dongjin Kim <tobetter@gmail.com>  Sat, 10 Jan 2015 18:30:35 +0900
+
 u-boot-odroidc1 (1.0-1ubuntu1) precise; urgency=low
 
   * The first debian package for distribution
