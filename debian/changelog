@@ -1,3 +1,9 @@
+u-boot-odroidc1 (1.0-1ubuntu3) precise; urgency=low
+
+  * Fix invalid install script
+
+ -- Dongjin Kim <tobetter@gmail.com>  Sat, 10 Jan 2015 19:41:55 +0900
+
 u-boot-odroidc1 (1.0-1ubuntu2) precise; urgency=low
 
   * Fix building failure due to missing README
