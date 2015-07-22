@@ -1,22 +1,22 @@
-u-boot-odroid-xu4 (1.0-1ubuntu3) precise; urgency=low
+u-boot-odroidxu4 (1.0-1ubuntu3) precise; urgency=low
 
-  * u-boot-odroid.install is renamed to u-boot-odroid-xu4.install
+  * u-boot-odroid.install is renamed to u-boot-odroidxu4.install
 
  -- Dongjin Kim <tobetter@gmail.com>  Thu, 16 Jul 2015 01:48:30 +0900
 
-u-boot-odroid-xu4 (1.0-1ubuntu2) precise; urgency=low
+u-boot-odroidxu4 (1.0-1ubuntu2) precise; urgency=low
 
   * README.md is renamed to README
 
  -- Dongjin Kim <tobetter@gmail.com>  Thu, 16 Jul 2015 01:12:25 +0900
 
-u-boot-odroid-xu4 (1.0-1ubuntu1) precise; urgency=low
+u-boot-odroidxu4 (1.0-1ubuntu1) precise; urgency=low
 
   * Adding debian package descriptions at first
 
  -- Dongjin Kim <tobetter@gmail.com>  Thu, 16 Jul 2015 00:25:15 +0900
 
-u-boot-odroid-xu4 (1.0-1) unstable; urgency=low
+u-boot-odroidxu4 (1.0-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 
