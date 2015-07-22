@@ -1,3 +1,11 @@
+u-boot-odroidxu4 (1.0-1ubuntu4) UNRELEASED; urgency=medium
+
+  * The package name is changed to 'u-boot-odroidxu4'
+  * New U-boot binary is imported, built and signed based below URL.
+    https://github.com/hardkernel/u-boot/commit/3acd50c296398bbba16dc6dd964d3ee36a4c85f5
+
+ -- Dongjin Kim <tobetter@hkxeon>  Wed, 22 Jul 2015 14:38:05 +0900
+
 u-boot-odroidxu4 (1.0-1ubuntu3) precise; urgency=low
 
   * u-boot-odroid.install is renamed to u-boot-odroidxu4.install
