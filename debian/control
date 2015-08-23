@@ -9,7 +9,7 @@ Vcs-Git: git://github.com/tobetter/u-boot.git
 Package: u-boot-odroidxu4
 Architecture: armel armhf
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: U-Boot bootloader binary for Hardkernel's ODROID-X
+Description: U-Boot bootloader binary for Hardkernel's ODROID-XU4
  This package contains the U-Boot bootloader which is responsible for
  loading and executing the Linux kernel on this board. This package
  contains the u-boot binary blob, and is not usally needed on a normal
