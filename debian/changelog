@@ -1,5 +1,21 @@
-u-boot-odroidxu4 (1.0-1ubuntu4) UNRELEASED; urgency=medium
+u-boot-odroidxu4 (1.0-1ubuntu5) precise; urgency=medium
 
+  * New U-boot binary is imported, built and signed based below URL.
+    https://github.com/hardkernel/u-boot/commit/fe2f831fd44a4071f58a42f260164544697aa666
+
+    >> Update history
+    46e0eee Exynos-5422:Add get_mmc_size command. get_mmc_size <device_num>
+    f8f45a1 Exynos5422: Fix block size calculation.
+    8580286 Revert "ODROID-XU3/4: Fix erase count."
+    eefed21 ODROID-XU3/4: Fix erase count.
+    9910048 Revert "ODROID-XU3/4: Use mmc_berase instead mmc_erase."
+    106b5f0 ODROID-XU3/4: Use mmc_berase instead mmc_erase.
+
+ -- tobetter <tobetter@t410>  Fri, 03 Jun 2016 00:07:00 -0400
+
+u-boot-odroidxu4 (1.0-1ubuntu4) precise; urgency=medium
+
+  [ Dongjin Kim ]
   * The package name is changed to 'u-boot-odroidxu4'
   * New U-boot binary is imported, built and signed based below URL.
     https://github.com/hardkernel/u-boot/commit/3acd50c296398bbba16dc6dd964d3ee36a4c85f5
