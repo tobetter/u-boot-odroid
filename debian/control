@@ -1,0 +1,16 @@
+Source: u-boot-odroidc2
+Section: misc
+Priority: extra
+Maintainer: Dongjin Kim <tobetter@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.1
+Vcs-Git: git://github.com/tobetter/u-boot.git
+
+Package: u-boot-odroidc2
+Architecture: armel armhf
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: U-Boot bootloader binary for Hardkernel's ODROID-C2
+ This package contains the U-Boot bootloader which is responsible for
+ loading and executing the Linux kernel on this board. This package
+ contains the u-boot binary blob, and is not usally needed on a normal
+ system.
