@@ -1,0 +1,5 @@
+u-boot-odroidc1 (1.0-1) trusty; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Dongjin Kim <tobetter@gmail.com>  Mon, 20 Jun 2016 22:08:48 -0400
